@@ -15,3 +15,4 @@ KARMA -> http://karma-runner.github.io/0.12/index.html
 JASMINE -> https://github.com/jasmine/jasmine
 ARTICLE -> http://andyshora.com/unit-testing-best-practices-angularjs.html
 DOCS -> https://docs.angularjs.org/guide/unit-testing
+# connectedfleet_frontend
